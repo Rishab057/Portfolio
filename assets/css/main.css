@@ -2851,7 +2851,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #0e0e0e;
 	}
 
 		#main > section > .container {
